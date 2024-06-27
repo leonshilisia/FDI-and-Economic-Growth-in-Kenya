@@ -20,15 +20,11 @@ Secondary time series data was collected from the World Bank, within the period 
 
 # Definition of Variables
 
-|Variable|	Definition	| Measurement|	Data Source|	Expected Effect on GDP|        
+|Variable|	Definition	| Measurement|	Data Source |	Expected Effect on GDP|        
    ---         ---            ---             ---           ---                 
-|Economic growth	|Increase In real GDP from one period to another.|	Actual GDP value in Billion USD.|	World Bank|        |
-                                                                    
-|Foreign Direct Investment|Cross border transaction from one country to another’s business entity.|Actual FDI inflows value in Billion USD.|	World Bank	Positive|
+|Economic growth | Increase In real GDP from one period to another.|	Actual GDP value in Billion USD.|	World Bank|        |
 |Infrastructure|	Basic physical systems that add in production process.|	Population % with access to electricity.|	World Bank|	Positive|
-       
 |Manufacturing	|Production of goods and services.|	Manufacturing output in Billion USD.|	World Bank	|Positive|
-      
 |Inflation	|Change in prices over time.	|Annual percentage rate.	|World Bank	|Positive|
      
 
